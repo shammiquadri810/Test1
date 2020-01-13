@@ -1,0 +1,7 @@
+class Print1
+{
+Public void main()
+{
+console.writeline("Hello World!")
+}
+}
